@@ -7,6 +7,6 @@
 - 生成概率表格  
 
 ## HIPO图
-![](hipo_poker.png)
+![uWXjcF.png](https://s2.ax1x.com/2019/10/08/uWXjcF.png)
 ## 数据流图
-![](poker_dataStream.png)
+![uWXvX4.png](https://s2.ax1x.com/2019/10/08/uWXvX4.png)
